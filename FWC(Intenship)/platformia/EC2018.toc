@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}PROBLEM}{1}{section.1}
+\contentsline {section}{\numberline {2}COMPONENTS}{1}{section.2}
+\contentsline {section}{\numberline {3}INTRODUCTION}{1}{section.3}
+\contentsline {section}{\numberline {4}TRUTH TABLE}{1}{section.4}
+\contentsline {section}{\numberline {5}CALICULATIONS}{1}{section.5}
+\contentsline {section}{\numberline {6}ARDUINO CONNECTIONS}{1}{section.6}
+\contentsline {section}{\numberline {7}CODE}{2}{section.7}
+\contentsline {paragraph}{}{2}{section*.2}
+\contentsline {section}{\numberline {8}RESULT}{2}{section.8}
